@@ -1,5 +1,9 @@
 ![alt README header](https://github.com/tbakerx/tbakerx/blob/main/assets/profile-header.png)
 
+## Full stack web developer
+
+I'm currently working at [Instant Domain Search](https://instantdomainsearch.com) helping people find the perfect domain, at remarkable speeds⚡️
+
 <!--
 **tbakerx/tbakerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
