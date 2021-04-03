@@ -1,4 +1,4 @@
-![alt README header](https://github.com/tbakerx/tbakerx/master/assets/profile-header.png)
+![alt README header](https://github.com/tbakerx/tbakerx/blob/main/assets/profile-header.png)
 
 <!--
 **tbakerx/tbakerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
