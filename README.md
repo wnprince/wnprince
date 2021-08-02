@@ -1,4 +1,4 @@
-![alt README header](https://github.com/tbakerx/tbakerx/blob/main/assets/profile-header.png)
+# Hey there, feel free to check out what I've been up to!
 
 ## Full Stack Software Engineer
 
