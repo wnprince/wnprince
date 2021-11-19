@@ -17,7 +17,9 @@ I'm always working on something, and often too excited about it to stop and upda
 
 Feel free to reach out and see what I'm up to now 💬
 
-<div align="center" style="padding: 25px 0;">
+[![tbakerx's github stats](https://github-readme-stats.vercel.app/api?username=tbakerx&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tbakerx)
+
+<div style="padding: 25px 0;">
     <a href="https://twitter.com/Timbakerx" style="padding: 24px;">
     <img src="https://github.com/tbakerx/tbakerx/blob/main/assets/twitter-green.png" alt="Follow me on twitter"  width="24" height="24">
     </a>
