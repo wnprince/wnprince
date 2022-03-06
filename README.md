@@ -2,7 +2,7 @@
 
 ## Full Stack Software Engineer
 
-💻 I'm currently working at [Instant Domain Search](https://instantdomainsearch.com), helping people find the perfect domain, instantly ⚡️
+💻 I'm currently working at [Instant Domains](https://instantdomains.com), helping people find the perfect domain, instantly ⚡️
 
 ### A bit about me:
 
