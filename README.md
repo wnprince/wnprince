@@ -11,7 +11,7 @@
 - Countries I've visited: 🇨🇦 🇹🇭 🇲🇾 🇻🇳 🇰🇭 🇮🇩 🇺🇸
 - Current location: 📍 Victoria, BC, Canada
 
-🌎 Check my [portfolio](https://www.timbaker.me/)
+🌎 Check my [portfolio](https://timbaker.me/)
 
 I'm always working on something, and often too excited about it to stop and update my portfolio
 
