@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"Welcome John-Son's Portfolio",
+    "description":"",
+    "image":"profilepic.png",
+    "bio":"I am a web developer from Hong Kong, The Netherlands. I am customer driven with a passion for results and always going the extra mile to get things done. I like being social with my colleagues and love to bring in some humor. I enjoy the process of creative problem-solving and want to understand complex issues. I love innovation and to bring original ideas to people. Seeing people enjoy what I made, or played a part in, is of utmost importance to me.",
+    "contactmessage":"Please fill in all fields",
+    "email": "wonderp087@gmail.com",
+    "phone": "",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"WAN CHAI",
+      "city":"HONG KONG",
+      "state":"China",
+      "zip": "999077 "
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://app.enhancv.com/share/dbff8209/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"The University of Hong Kong",
+        "graduated":"April 2017",
+        "description":"Computer Science - Web Development"
+      }
+    ],
+    "work":[
+      {
+        "company":"Web Developer",
+        "title":"TedText",
+        "years":"March 2018",
+        "description":"Texting Educational Data – Rapid Knowledge Transfer and Assessment (TED-RKTA), provided by short message service (SMS, i.e., text messages) rapidly transfers knowledge, prepares learners and assesses knowledge decay. TED-RKTA equips Airmen and Sailors with a blended micro-learning and smartphone technology that is a comfortable environment that modern learners are already fluent in. Effortless learning through text messages. Micro-learning at the speed of texting. Use the power of texting to engage your students 24/7."
+      },
+      {
+        "company":"UpWork - Web Developer",
+        "title":"",
+        "years":"March 2018 - April 2020",
+        "description":"Need an experienced python Django developer to help us debug and complete an eCommerce website that allows us to securely sell and ship our products worldwide."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C Plusplus",
+        "level":"95%"
+      },
+      {
+        "name":"Python",
+        "level":"85%"
+      },
+      {
+        "name":"VueJs",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"85%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"A Simon Game",
+        "category":"This is my Challenge game",
+        "image":"01.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Pomodoro Clock",
+        "category":"The clock can be started by pressing the top, blue, button. The clock will change color to green and the background will change into a motivating and concentration enhancing color during the work period and in a relaxing color in the rest period. At the end of each period an audio signal is given.",
+        "image":"02.png",
+        "url":"http://www.timbakerdev.com"
+      }
+      ]
+  }
+}
